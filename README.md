@@ -14,6 +14,6 @@ Safety systems react only after a problem occurs.
 There’s an urgent need for proactive, health-focused interventions to save lives.
 
 By -
-Vidapu Bhanu Teja
-Mangipudi Sai Hemanth
+Vidapu Bhanu Teja, 
+Mangipudi Sai Hemanth, 
 Sontu Akshath Rishi
