@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273571821285",
+    "project_id": "drivewell-d3f0b",
+    "storage_bucket": "drivewell-d3f0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273571821285:android:de4354e86114697e54060c",
+        "android_client_info": {
+          "package_name": "com.example.sdfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEe5RQUXeyJrQPWD-Bq83Wcgli9wH05M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
