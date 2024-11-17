@@ -146,7 +146,7 @@ class CrashReports extends StatelessWidget {
 
                                           Expanded(
                                             child: Text(
-                                                " USER PHONE here ",
+                                                " 7793954548 ",
                                                 textAlign: TextAlign.left,
                                                 style: GoogleFonts.poppins(
                                                     textStyle: const TextStyle(
@@ -177,7 +177,7 @@ class CrashReports extends StatelessWidget {
 
                                           Expanded(
                                             child: Text(
-                                                " USER DL here ",
+                                                " 677671711 ",
                                                 textAlign: TextAlign.left,
                                                 style: GoogleFonts.poppins(
                                                     textStyle: const TextStyle(
